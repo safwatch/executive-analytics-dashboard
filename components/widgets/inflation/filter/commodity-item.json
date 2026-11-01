@@ -1,0 +1,265 @@
+{
+  "records_total": 75,
+  "data": [
+    {
+      "id": "2",
+      "name": "Cabe Merah",
+      "category_id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Bawang Merah",
+      "category_id": "2"
+    },
+    {
+      "id": "4",
+      "name": "Daging Ayam Broiler",
+      "category_id": "3"
+    },
+    {
+      "id": "5",
+      "name": "Telur Ayam Broiler",
+      "category_id": "3"
+    },
+    {
+      "id": "6",
+      "name": "Daging Sapi",
+      "category_id": "3"
+    },
+    {
+      "id": "7",
+      "name": "Minyak Goreng (Kemasan)",
+      "category_id": "5"
+    },
+    {
+      "id": "8",
+      "name": "Gula Pasir Lokal",
+      "category_id": "5"
+    },
+    {
+      "id": "11",
+      "name": "Kacang Kedelai",
+      "category_id": "2"
+    },
+    {
+      "id": "12",
+      "name": "Tepung Terigu Curah",
+      "category_id": "1"
+    },
+    {
+      "id": "14",
+      "name": "Kol/Kubis",
+      "category_id": "2"
+    },
+    {
+      "id": "15",
+      "name": "Bawang Putih",
+      "category_id": "2"
+    },
+    {
+      "id": "17",
+      "name": "Cabe Merah Keriting",
+      "category_id": "2"
+    },
+    {
+      "id": "18",
+      "name": "Cabe Rawit Merah",
+      "category_id": "2"
+    },
+    {
+      "id": "19",
+      "name": "Kacang Tanah",
+      "category_id": "2"
+    },
+    {
+      "id": "22",
+      "name": "Jagung Manis",
+      "category_id": "2"
+    },
+    {
+      "id": "23",
+      "name": "Ikan Asin Teri Medan",
+      "category_id": "3"
+    },
+    {
+      "id": "24",
+      "name": "Beras Premium",
+      "category_id": "1"
+    },
+    {
+      "id": "26",
+      "name": "Minyak Goreng (Curah)",
+      "category_id": "5"
+    },
+    {
+      "id": "28",
+      "name": "Daging Ayam Kampung",
+      "category_id": "3"
+    },
+    {
+      "id": "29",
+      "name": "Telur Ayam Kampung",
+      "category_id": "3"
+    },
+    {
+      "id": "30",
+      "name": "Susu Kental Manis",
+      "category_id": "4"
+    },
+    {
+      "id": "33",
+      "name": "Garam",
+      "category_id": "5"
+    },
+    {
+      "id": "34",
+      "name": "Tepung Terigu Cakra Kembar",
+      "category_id": "1"
+    },
+    {
+      "id": "37",
+      "name": "Mie Instan",
+      "category_id": "5"
+    },
+    {
+      "id": "38",
+      "name": "Cabe Rawit Hijau",
+      "category_id": "2"
+    },
+    {
+      "id": "39",
+      "name": "Kacang Hijau",
+      "category_id": "2"
+    },
+    {
+      "id": "41",
+      "name": "LPG 3KG",
+      "category_id": "5"
+    },
+    {
+      "id": "42",
+      "name": "Susu Bubuk",
+      "category_id": "4"
+    },
+    {
+      "id": "45",
+      "name": "Ikan Kembung",
+      "category_id": "3"
+    },
+    {
+      "id": "72",
+      "name": "Ikan Segar Bandeng",
+      "category_id": null
+    },
+    {
+      "id": "73",
+      "name": "Ikan Segar Kembung",
+      "category_id": null
+    },
+    {
+      "id": "74",
+      "name": "Ikan Segar Tongkol/Tuna/Cakalang",
+      "category_id": null
+    },
+    {
+      "id": "75",
+      "name": "Ketela Pohon",
+      "category_id": null
+    },
+    {
+      "id": "76",
+      "name": "Cabai Hijau Biasa",
+      "category_id": null
+    },
+    {
+      "id": "77",
+      "name": "Gula Merah",
+      "category_id": null
+    },
+    {
+      "id": "79",
+      "name": "Tomat Merah",
+      "category_id": null
+    },
+    {
+      "id": "80",
+      "name": "Bawang Bombay",
+      "category_id": null
+    },
+    {
+      "id": "82",
+      "name": "Kentang Lokal Dieng",
+      "category_id": null
+    },
+    {
+      "id": "83",
+      "name": "Jagung Pipilan",
+      "category_id": null
+    },
+    {
+      "id": "84",
+      "name": "Tempe 1 Kg",
+      "category_id": null
+    },
+    {
+      "id": "85",
+      "name": "Ikan Mas",
+      "category_id": null
+    },
+    {
+      "id": "86",
+      "name": "Ikan Teri Kering",
+      "category_id": null
+    },
+    {
+      "id": "87",
+      "name": "Tepung Terigu Kunci Biru",
+      "category_id": null
+    },
+    {
+      "id": "88",
+      "name": "Tepung Terigu Segitiga Biru",
+      "category_id": null
+    },
+    {
+      "id": "89",
+      "name": "Ubi Jalar Putih",
+      "category_id": null
+    },
+    {
+      "id": "90",
+      "name": "Daging Sapi Beku",
+      "category_id": null
+    },
+    {
+      "id": "91",
+      "name": "Daging Sapi, Lokal, Tetelan",
+      "category_id": null
+    },
+    {
+      "id": "92",
+      "name": "Daging Sapi, Lokal, Paha Depan",
+      "category_id": null
+    },
+    {
+      "id": "93",
+      "name": "Daging Sapi, Lokal, Paha Belakang",
+      "category_id": null
+    },
+    {
+      "id": "94",
+      "name": "Daging Sapi, Lokal, Has Dalam (Tenderloin)",
+      "category_id": null
+    },
+    {
+      "id": "95",
+      "name": "Daging Sapi, Lokal, Has Luar (Sirloin)",
+      "category_id": null
+    },
+    {
+      "id": "96",
+      "name": "Susu Kental Manis Indomilk",
+      "category_id": null
+    }
+  ]
+}

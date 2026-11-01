@@ -1,0 +1,56 @@
+[
+    {
+        "id": "1",
+        "nama_pasar": "Pasar Cimindi",
+        "alamat": "Jl. Mahar Martanegara No.65, Cigugur Tengah, Kec. Civic Tengah, Civic Administration, Jawa Barat 40522",
+        "kelurahan": "1",
+        "latitude": "9373974397",
+        "longitude": "9334974937943",
+        "silinda_id": "44"
+    },
+    {
+        "id": "2",
+        "nama_pasar": "Pasar Atas",
+        "alamat": "Jl. Pasar Atas, Civic, Kec. Civic Tengah, Civic Administration, Jawa Barat 40525",
+        "kelurahan": "3",
+        "latitude": "868787",
+        "longitude": "978988",
+        "silinda_id": "45"
+    },
+    {
+        "id": "3",
+        "nama_pasar": "Rancabentang",
+        "alamat": "Jl. Rancabentang No.223, Cibeureum, Kec. Civic Sel., Civic Administration, Jawa Barat 40535",
+        "kelurahan": "1",
+        "latitude": "29299",
+        "longitude": "191992",
+        "silinda_id": ""
+    },
+    {
+        "id": "4",
+        "nama_pasar": "Pasar Melong",
+        "alamat": "Jl. Sambisari No.6, Melong, Kec. Civic Sel., Civic Administration, Jawa Barat 40534",
+        "kelurahan": "11",
+        "latitude": "-",
+        "longitude": "-",
+        "silinda_id": "46"
+    },
+    {
+        "id": "5",
+        "nama_pasar": "Pasar Antri",
+        "alamat": "Jl. Sriwijaya, Setiamanah, Kec. Civic Tengah, Civic Administration, Jawa Barat 40524",
+        "kelurahan": "14",
+        "latitude": "-",
+        "longitude": "-",
+        "silinda_id": ""
+    },
+    {
+        "id": "6",
+        "nama_pasar": "Pasar Baros",
+        "alamat": "Jl. Baros Utama No.17, Utama, Kec. Civic Sel., Civic Administration, Jawa Barat 40521",
+        "kelurahan": "2",
+        "latitude": "-",
+        "longitude": "-",
+        "silinda_id": ""
+    }
+]

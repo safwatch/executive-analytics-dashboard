@@ -1,0 +1,5 @@
+{ 
+	"target": "https://dev-executive-analytics-api.civickota.go.id/",
+	"pathRewrite": {"^/api/": ""}, 
+	"changeOrigin": true 
+}

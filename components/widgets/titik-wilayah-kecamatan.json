@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Civic Selatan",
+        "longitude": 107.5383300,
+        "latitude": -6.9094400,
+        "inflation": true,
+        "color" : "#000000",
+        "areaColors" : "#FF0000"
+    },
+    {
+        "name": "Civic Tengah",
+        "longitude": 107.5366700,
+        "latitude": -6.8833300,
+        "inflation": false,
+        "color" : "#000000",
+        "areaColors" : "#FFFF00"
+    },
+    {
+        "name": "Civic Utara",
+        "longitude": 107.5502800,
+        "latitude": -6.8580600,
+        "inflation": true,
+        "color" : "#000000",
+        "areaColors" : "#0000FF"
+    }
+]

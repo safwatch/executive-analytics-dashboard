@@ -1,0 +1,59 @@
+//
+// ion-rangeslider.scss
+//
+
+.vue-slide-bar-tooltip {
+  background-color: $primary !important;
+  border: 1px solid $primary !important;
+}
+
+.vue-slide-bar-process {
+  background-color: $primary !important;
+}
+
+.vue-slide-bar {
+  background-color: $gray-300 !important;
+}
+
+.vue-slide-bar-separate-text {
+  color: $gray-400;
+}
+
+//
+// ion-rangeslider.scss
+//
+
+// Variables
+$primary-green-slider: #4caf50; // You can define the primary color as green if not already defined
+
+.green-slider {
+  // Styles for vue-slide-bar
+  .vue-slide-bar-tooltip {
+    background-color: $primary-green-slider !important;
+    border: 1px solid $primary-green-slider !important;
+  }
+
+  .vue-slide-bar-process {
+    background: linear-gradient(to left, #dff3e3, #4caf50, #6ABB6C) !important;
+    height: 10px; // Match the height if needed
+  }
+
+  .vue-slide-bar {
+    background-color: $gray-300 !important;
+    height: 10px; // Set the track height
+  }
+
+  .vue-slide-bar-separate-text {
+    color: $gray-400;
+  }
+
+  // Additional styles for the thumb
+  .vue-slide-bar-thumb {
+    background-color: $primary-green-slider !important;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    border: 2px solid #fff; // White border around the thumb
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2); // Optional shadow
+  }
+}

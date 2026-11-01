@@ -1,0 +1,461 @@
+{
+    "records_total": 76,
+    "data": [
+        {
+            "id": 2,
+            "name": "Cabe Merah",
+            "price": 22.64,
+            "priceChange": -3.02
+        },
+        {
+            "id": 3,
+            "name": "Bawang Merah",
+            "price": 166.95,
+            "priceChange": 9.52
+        },
+        {
+            "id": 4,
+            "name": "Daging Ayam Broiler",
+            "price": 140.75,
+            "priceChange": 9.92
+        },
+        {
+            "id": 5,
+            "name": "Telur Ayam Broiler",
+            "price": 62.26,
+            "priceChange": -4.12
+        },
+        {
+            "id": 6,
+            "name": "Daging Sapi",
+            "price": 162.9,
+            "priceChange": -8.2
+        },
+        {
+            "id": 7,
+            "name": "Minyak Goreng (Kemasan)",
+            "price": 195.72,
+            "priceChange": 9.28
+        },
+        {
+            "id": 8,
+            "name": "Gula Pasir Lokal",
+            "price": 146.81,
+            "priceChange": 2.35
+        },
+        {
+            "id": 11,
+            "name": "Kacang Kedelai",
+            "price": 110.85,
+            "priceChange": 5.64
+        },
+        {
+            "id": 12,
+            "name": "Tepung Terigu Curah",
+            "price": 141.01,
+            "priceChange": 5.78
+        },
+        {
+            "id": 14,
+            "name": "Kol/Kubis",
+            "price": 185.65,
+            "priceChange": 9.13
+        },
+        {
+            "id": 15,
+            "name": "Bawang Putih",
+            "price": 136.88,
+            "priceChange": -2.69
+        },
+        {
+            "id": 17,
+            "name": "Cabe Merah Keriting",
+            "price": 137.89,
+            "priceChange": 5.44
+        },
+        {
+            "id": 18,
+            "name": "Cabe Rawit Merah",
+            "price": 167.91,
+            "priceChange": 1.41
+        },
+        {
+            "id": 19,
+            "name": "Kacang Tanah",
+            "price": 14.69,
+            "priceChange": 8.6
+        },
+        {
+            "id": 22,
+            "name": "Jagung Manis",
+            "price": 188.63,
+            "priceChange": -1.49
+        },
+        {
+            "id": 23,
+            "name": "Ikan Asin Teri Medan",
+            "price": 5.98,
+            "priceChange": -0.28
+        },
+        {
+            "id": 24,
+            "name": "Beras Premium",
+            "price": 200,
+            "priceChange": 1.41
+        },
+        {
+            "id": 26,
+            "name": "Minyak Goreng (Curah)",
+            "price": 91.34,
+            "priceChange": -6.89
+        },
+        {
+            "id": 28,
+            "name": "Daging Ayam Kampung",
+            "price": 135.6,
+            "priceChange": -9.66
+        },
+        {
+            "id": 29,
+            "name": "Telur Ayam Kampung",
+            "price": 87.3,
+            "priceChange": 6.66
+        },
+        {
+            "id": 30,
+            "name": "Susu Kental Manis",
+            "price": 58.88,
+            "priceChange": 2.16
+        },
+        {
+            "id": 33,
+            "name": "Garam",
+            "price": 13.26,
+            "priceChange": 6.47
+        },
+        {
+            "id": 34,
+            "name": "Tepung Terigu Cakra Kembar",
+            "price": 56.8,
+            "priceChange": 5.96
+        },
+        {
+            "id": 37,
+            "name": "Mie Instan",
+            "price": 75.06,
+            "priceChange": -2.67
+        },
+        {
+            "id": 38,
+            "name": "Cabe Rawit Hijau",
+            "price": 186.04,
+            "priceChange": 6.88
+        },
+        {
+            "id": 39,
+            "name": "Kacang Hijau",
+            "price": 50.1,
+            "priceChange": -9.79
+        },
+        {
+            "id": 41,
+            "name": "LPG 3KG",
+            "price": 162,
+            "priceChange": -3.91
+        },
+        {
+            "id": 42,
+            "name": "Susu Bubuk",
+            "price": 137.01,
+            "priceChange": -9.5
+        },
+        {
+            "id": 45,
+            "name": "Ikan Kembung",
+            "price": 45.7,
+            "priceChange": 1.03
+        },
+        {
+            "id": 72,
+            "name": "Ikan Segar Bandeng",
+            "price": 81.43,
+            "priceChange": 6.25
+        },
+        {
+            "id": 73,
+            "name": "Ikan Segar Kembung",
+            "price": 194.88,
+            "priceChange": -0.19
+        },
+        {
+            "id": 74,
+            "name": "Ikan Segar Tongkol/Tuna/Cakalang",
+            "price": 163.01,
+            "priceChange": -5.12
+        },
+        {
+            "id": 75,
+            "name": "Ketela Pohon",
+            "price": 73,
+            "priceChange": -1.5
+        },
+        {
+            "id": 76,
+            "name": "Cabai Hijau Biasa",
+            "price": 117.25,
+            "priceChange": -5.87
+        },
+        {
+            "id": 77,
+            "name": "Gula Merah",
+            "price": 83.44,
+            "priceChange": -7.46
+        },
+        {
+            "id": 79,
+            "name": "Tomat Merah",
+            "price": 161.42,
+            "priceChange": -7.5
+        },
+        {
+            "id": 80,
+            "name": "Bawang Bombay",
+            "price": 199.62,
+            "priceChange": -6.69
+        },
+        {
+            "id": 82,
+            "name": "Kentang Lokal Dieng",
+            "price": 189.95,
+            "priceChange": -7.87
+        },
+        {
+            "id": 83,
+            "name": "Jagung Pipilan",
+            "price": 183.09,
+            "priceChange": -2.54
+        },
+        {
+            "id": 84,
+            "name": "Tempe 1 Kg",
+            "price": 54.2,
+            "priceChange": -5.18
+        },
+        {
+            "id": 85,
+            "name": "Ikan Mas",
+            "price": 146.07,
+            "priceChange": -4.58
+        },
+        {
+            "id": 86,
+            "name": "Ikan Teri Kering",
+            "price": 130.15,
+            "priceChange": -2.14
+        },
+        {
+            "id": 87,
+            "name": "Tepung Terigu Kunci Biru",
+            "price": 44.03,
+            "priceChange": 5.11
+        },
+        {
+            "id": 88,
+            "name": "Tepung Terigu Segitiga Biru",
+            "price": 66.34,
+            "priceChange": -0.83
+        },
+        {
+            "id": 89,
+            "name": "Ubi Jalar Putih",
+            "price": 138.96,
+            "priceChange": 7.95
+        },
+        {
+            "id": 90,
+            "name": "Daging Sapi Beku",
+            "price": 54.35,
+            "priceChange": -4.67
+        },
+        {
+            "id": 91,
+            "name": "Daging Sapi, Lokal, Tetelan",
+            "price": 149.02,
+            "priceChange": 6.67
+        },
+        {
+            "id": 92,
+            "name": "Daging Sapi, Lokal, Paha Depan",
+            "price": 21.78,
+            "priceChange": 4.59
+        },
+        {
+            "id": 93,
+            "name": "Daging Sapi, Lokal, Paha Belakang",
+            "price": 192.53,
+            "priceChange": -3.84
+        },
+        {
+            "id": 94,
+            "name": "Daging Sapi, Lokal, Has Dalam (Tenderloin)",
+            "price": 127.78,
+            "priceChange": 7.69
+        },
+        {
+            "id": 95,
+            "name": "Daging Sapi, Lokal, Has Luar (Sirloin)",
+            "price": 105.2,
+            "priceChange": 6.75
+        },
+        {
+            "id": 96,
+            "name": "Susu Kental Manis Indomilk",
+            "price": 119.96,
+            "priceChange": -3.71
+        },
+        {
+            "id": 97,
+            "name": "Minyak Goreng Kelapa",
+            "price": 95.21,
+            "priceChange": 9.63
+        },
+        {
+            "id": 98,
+            "name": "Daging Babi",
+            "price": 80.59,
+            "priceChange": 8.83
+        },
+        {
+            "id": 99,
+            "name": "Daging Domba",
+            "price": 124.74,
+            "priceChange": 4.03
+        },
+        {
+            "id": 100,
+            "name": "Sosis Ayam",
+            "price": 6.67,
+            "priceChange": -3.7
+        },
+        {
+            "id": 101,
+            "name": "Telur Asin",
+            "price": 144.24,
+            "priceChange": -2.17
+        },
+        {
+            "id": 102,
+            "name": "Roti Tawar",
+            "price": 12.73,
+            "priceChange": -9.13
+        },
+        {
+            "id": 103,
+            "name": "Gula Merah Cair",
+            "price": 175.85,
+            "priceChange": -1.88
+        },
+        {
+            "id": 104,
+            "name": "Beras Merah",
+            "price": 165.78,
+            "priceChange": -6.44
+        },
+        {
+            "id": 105,
+            "name": "Beras Hitam",
+            "price": 29.51,
+            "priceChange": -4.15
+        },
+        {
+            "id": 106,
+            "name": "Mie Kering",
+            "price": 97.43,
+            "priceChange": 7.36
+        },
+        {
+            "id": 107,
+            "name": "Tempe Daun",
+            "price": 114.71,
+            "priceChange": -4.1
+        },
+        {
+            "id": 108,
+            "name": "Kecap Manis",
+            "price": 198.43,
+            "priceChange": 7.95
+        },
+        {
+            "id": 109,
+            "name": "Kecap Asin",
+            "price": 144.79,
+            "priceChange": -7.86
+        },
+        {
+            "id": 110,
+            "name": "Minyak Wijen",
+            "price": 175.43,
+            "priceChange": -5.59
+        },
+        {
+            "id": 111,
+            "name": "Minyak Zaitun",
+            "price": 19.43,
+            "priceChange": 0.14
+        },
+        {
+            "id": 112,
+            "name": "Susu Bubuk Full Cream",
+            "price": 134.59,
+            "priceChange": -8.48
+        },
+        {
+            "id": 113,
+            "name": "Susu Bubuk Skim",
+            "price": 58.76,
+            "priceChange": -2.33
+        },
+        {
+            "id": 114,
+            "name": "Margarine",
+            "price": 11.61,
+            "priceChange": 6.57
+        },
+        {
+            "id": 115,
+            "name": "Mentega",
+            "price": 171.07,
+            "priceChange": 3.19
+        },
+        {
+            "id": 116,
+            "name": "Garam Laut",
+            "price": 32.13,
+            "priceChange": 6.94
+        },
+        {
+            "id": 117,
+            "name": "Gula Kastor",
+            "price": 199.1,
+            "priceChange": 9.49
+        },
+        {
+            "id": 118,
+            "name": "Gula Halus",
+            "price": 65.63,
+            "priceChange": 9.25
+        },
+        {
+            "id": 119,
+            "name": "Gula Batu",
+            "price": 98.82,
+            "priceChange": 7.9
+        },
+        {
+            "id": 120,
+            "name": "Tepung Beras",
+            "price": 21.68,
+            "priceChange": -3.48
+        }
+    ]
+}

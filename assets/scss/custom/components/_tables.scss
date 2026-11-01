@@ -1,0 +1,145 @@
+// 
+// tables.scss
+//
+
+.table {
+
+    .table-light {
+        color: $body-color;
+        border-color: $table-border-color;
+        background-color: var(--#{$variable-prefix}light);
+    }
+
+    >thead {
+        border-color: $table-border-color;
+    }
+    >:not(:first-child) {
+        border-top-width: $table-border-width;
+    }
+}
+
+th {
+    font-weight: $table-head-font-weight;
+}
+
+//Table centered (Custom)
+.table-centered {
+    td,th {
+        vertical-align: middle !important;
+    }
+}
+
+
+// Table 
+
+.table-nowrap {
+    th,td {
+        white-space: nowrap;
+    }
+}
+
+// Custom table components (Custom)
+.table {
+    .table-user {
+        img {
+            height: 30px;
+            width: 30px;
+        }
+    }
+}
+
+.action-icon {
+    color: $gray-600;
+    font-size: 1.2rem;
+    display: inline-block;
+    padding: 0 3px;
+
+    &:hover {
+        color: $gray-700;
+    }
+}
+
+
+// card table
+
+.table-card{
+    margin: -1.5rem -1.5rem;
+
+    th,
+    td {
+
+        &:first-child{
+            padding-left: 16px;
+        }
+
+        &:last-child{
+            padding-right: 16px;
+        }
+    }
+
+    .table > :not(:first-child) {
+        border-top-width: $table-border-width;
+    }
+}
+
+
+@each $color,
+$value in $theme-colors {
+    .border-#{$color} {
+        &.table {
+            > thead {
+                border-color: $value !important;
+            }
+        }
+    }
+    .table-#{$color} {
+        &.table {
+            > thead {
+                border-bottom-color:lighten($value, 10%) !important;
+            }
+        }
+    }
+}
+
+.table>:not(caption)>*>* {
+    color: var(--vz-table-color-state), var(--vz-table-color-type, var(--vz-table-color));
+}
+
+.table {
+    .form-check {
+        padding-left: 0px;
+        margin-bottom: 0px;
+        .form-check-input {
+            margin-left: 0px;
+            margin-top: 0px;
+            float: none;
+            vertical-align: middle;
+        }
+    }
+    .sort {
+        position: relative;
+        &::before {
+            content: "\f035d";
+            position: absolute;
+            right: 0.5rem;
+            top: 18px;
+            font-size: 0.8rem;
+            font-family: "Material Design Icons";
+        }
+        &::after {
+            position:absolute;
+            right: 0.5rem;
+            content: "\f0360";
+            font-family: "Material Design Icons";
+            font-size: 0.8rem;
+            top: 12px;
+        }
+    }
+}
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }

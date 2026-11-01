@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "name": "Beras Medium",
+        "price_change": "-9.47%",
+        "price_change_percentage": 9.47,
+        "change_type": "down",
+        "price": "Rp 9.505/Kg",
+        "current_price": 9505,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 2,
+        "name": "Cabe Merah",
+        "price_change": "+13.9%",
+        "price_change_percentage": 13.9,
+        "change_type": "up",
+        "price": "Rp 11.959/Kg",
+        "current_price": 11959,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 3,
+        "name": "Bawang Merah",
+        "price_change": "+16.11%",
+        "price_change_percentage": 16.11,
+        "change_type": "up",
+        "price": "Rp 12.191/Kg",
+        "current_price": 12191,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 4,
+        "name": "Daging Ayam Broiler",
+        "price_change": "-10.19%",
+        "price_change_percentage": 10.19,
+        "change_type": "down",
+        "price": "Rp 9.430/Kg",
+        "current_price": 9430,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 5,
+        "name": "Telur Ayam Broiler",
+        "price_change": "-6.85%",
+        "price_change_percentage": 6.85,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 11.569/Kg"
+    },
+    {
+        "id": 6,
+        "name": "Daging Sapi",
+        "price_change": "+18.65%",
+        "price_change_percentage": 18.65,
+        "change_type": "up",
+        "price": "Rp 12.458/Kg",
+        "current_price": 12458,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 7,
+        "name": "Minyak Goreng (Kemasan)",
+        "price_change": "-17.12%",
+        "price_change_percentage": 17.12,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 12.440/Kg"
+    },
+    {
+        "id": 8,
+        "name": "Gula Pasir Lokal",
+        "price_change": "+18.48%",
+        "price_change_percentage": 18.48,
+        "change_type": "up",
+        "price": "Rp 12.440/Kg",
+        "current_price": 12440,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 9,
+        "name": "Kacang Kedelai",
+        "price_change": "+19.63%",
+        "price_change_percentage": 19.63,
+        "change_type": "up",
+        "price": "Rp 12.561/Kg",
+        "current_price": 12561,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 10,
+        "name": "Tepung Terigu Curah",
+        "price_change": "-2.82%",
+        "price_change_percentage": 2.82,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 10.782/Kg"
+    },
+    {
+        "id": 11,
+        "name": "Bawang Putih",
+        "price_change": "-3.02%",
+        "price_change_percentage": 3.02,
+        "change_type": "down",
+        "price": "Rp 10.198/Kg",
+        "current_price": 10198,
+        "previous_price": "Rp 10.500/Kg"
+    },
+    {
+        "id": 12,
+        "name": "Cabe Merah Keriting",
+        "price_change": "-2.23%",
+        "price_change_percentage": 2.23,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 10.773/Kg"
+    },
+    {
+        "id": 13,
+        "name": "Cabe Rawit Merah",
+        "price_change": "+5.9%",
+        "price_change_percentage": 5.9,
+        "change_type": "up",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 9.910/Kg"
+    },
+    {
+        "id": 14,
+        "name": "Kacang Tanah",
+        "price_change": "+4.46%",
+        "price_change_percentage": 4.46,
+        "change_type": "up",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 10.031/Kg"
+    },
+    {
+        "id": 15,
+        "name": "Jagung Manis",
+        "price_change": "-16.76%",
+        "price_change_percentage": 16.76,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 12.259/Kg"
+    },
+    {
+        "id": 16,
+        "name": "Ikan Asin Teri Medan",
+        "price_change": "-4.49%",
+        "price_change_percentage": 4.49,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 10.971/Kg"
+    },
+    {
+        "id": 17,
+        "name": "Beras Premium",
+        "price_change": "-2.58%",
+        "price_change_percentage": 2.58,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 10.770/Kg"
+    },
+    {
+        "id": 18,
+        "name": "Minyak Goreng (Curah)",
+        "price_change": "+10.57%",
+        "price_change_percentage": 10.57,
+        "change_type": "up",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 9.390/Kg"
+    },
+    {
+        "id": 19,
+        "name": "Daging Ayam Kampung",
+        "price_change": "-5.09%",
+        "price_change_percentage": 5.09,
+        "change_type": "down",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 11.034/Kg"
+    },
+    {
+        "id": 20,
+        "name": "Telur Ayam Kampung",
+        "price_change": "+19.8%",
+        "price_change_percentage": 19.8,
+        "change_type": "up",
+        "price": "Rp 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": "Rp 8.421/Kg"
+    },
+    {
+        "id": 21,
+        "name": "Susu Kental Manis",
+        "price_change": "+14.95%",
+        "price_change_percentage": 14.95,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 22,
+        "name": "Garam",
+        "price_change": "-18.54%",
+        "price_change_percentage": 18.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 23,
+        "name": "Mie Instan",
+        "price_change": "+7.77%",
+        "price_change_percentage": 7.77,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 24,
+        "name": "Cabe Rawit Hijau",
+        "price_change": "-15.74%",
+        "price_change_percentage": 15.74,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 25,
+        "name": "Kacang Hijau",
+        "price_change": "-11.87%",
+        "price_change_percentage": 11.87,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 26,
+        "name": "LPG 3KG",
+        "price_change": "-1.4%",
+        "price_change_percentage": 1.4,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 27,
+        "name": "Susu Bubuk",
+        "price_change": "+9.57%",
+        "price_change_percentage": 9.57,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 28,
+        "name": "Ikan Kembung",
+        "price_change": "+13.74%",
+        "price_change_percentage": 13.74,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 29,
+        "name": "Ikan Segar Bandeng",
+        "price_change": "-9.47%",
+        "price_change_percentage": 9.47,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 30,
+        "name": "Ikan Segar Kembung",
+        "price_change": "+13.9%",
+        "price_change_percentage": 13.9,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 31,
+        "name": "Ikan Segar Tongkol/Tuna/Cakalang",
+        "price_change": "+16.11%",
+        "price_change_percentage": 16.11,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 32,
+        "name": "Ketela Pohon",
+        "price_change": "-10.19%",
+        "price_change_percentage": 10.19,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 33,
+        "name": "Cabai Hijau Biasa",
+        "price_change": "-6.85%",
+        "price_change_percentage": 6.85,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 34,
+        "name": "Gula Merah",
+        "price_change": "+18.65%",
+        "price_change_percentage": 18.65,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 35,
+        "name": "Tomat",
+        "price_change": "-17.12%",
+        "price_change_percentage": 17.12,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 36,
+        "name": "Bawang Bombay",
+        "price_change": "+18.48%",
+        "price_change_percentage": 18.48,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 37,
+        "name": "Kol/Kubis",
+        "price_change": "-2.82%",
+        "price_change_percentage": 2.82,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 38,
+        "name": "Kentang Lokal Dieng",
+        "price_change": "-3.02%",
+        "price_change_percentage": 3.02,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 39,
+        "name": "Jagung Pipilan ",
+        "price_change": "-2.23%",
+        "price_change_percentage": 2.23,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 40,
+        "name": "Tempe 1 Kg",
+        "price_change": "+5.9%",
+        "price_change_percentage": 5.9,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 41,
+        "name": "Ikan Mas",
+        "price_change": "+4.46%",
+        "price_change_percentage": 4.46,
+        "change_type": "up",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 42,
+        "name": "Ikan Teri Kering",
+        "price_change": "-16.76%",
+        "price_change_percentage": 16.76,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 43,
+        "name": "Tepung Terigu Kunci Biru",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 44,
+        "name": "Tepung Terigu Segitiga Biru",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 45,
+        "name": "Ubi Jalar Putih",
+        "price_change": "-10%",
+        "price_change_percentage": 10,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 46,
+        "name": "Daging Sapi Beku",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 47,
+        "name": "Daging Sapi, Lokal, Tetelan",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 48,
+        "name": "Daging Sapi, Lokal, Paha Depan",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 49,
+        "name": "Daging Sapi, Lokal, Paha Belakang",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 50,
+        "name": "Daging Sapi, Lokal, Has Dalam (Tenderloin)",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 51,
+        "name": "Daging Sapi, Lokal, Has Luar (Sirloin)",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 52,
+        "name": "Susu Kental Manis Indomilk",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 53,
+        "name": "Garam Halus Laba Laba",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 54,
+        "name": "Tepung Terigu Cakra Kembar",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 55,
+        "name": "Bawang Putih Cutting",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 56,
+        "name": "Udang",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 57,
+        "name": "Tahu Mentah 1 Kg",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 58,
+        "name": "Pisang 1 Kg",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 59,
+        "name": "Susu Balita (SGM) 400Gr",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    },
+    {
+        "id": 60,
+        "name": "Jeruk 1 Kg",
+        "price_change": "-13.54%",
+        "price_change_percentage": 13.54,
+        "change_type": "down",
+        "price": "Rp. 10.500/Kg",
+        "current_price": 10500,
+        "previous_price": ""
+    }
+]

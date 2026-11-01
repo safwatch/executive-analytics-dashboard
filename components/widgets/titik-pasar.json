@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Pasar Rancabentang",
+        "longitude": 107.559048,
+        "latitude": -6.905692
+    },
+    {
+        "name": "Pasar Cimindi",
+        "longitude": 107.55623,
+        "latitude": -6.898019
+    },
+    {
+        "name": "Pasar Antri",
+        "longitude": 107.538259,
+        "latitude": -6.880287
+    },
+    {
+        "name": "Pasar Atas",
+        "longitude": 107.542622,
+        "latitude": -6.869215
+    },
+    {
+        "name": "Pasar Baros",
+        "longitude": 107.536261,
+        "latitude": -6.896557
+    },
+    {
+        "name": "Pasar Melong",
+        "longitude": 107.554507,
+        "latitude": -6.913712
+    }
+]

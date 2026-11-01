@@ -1,0 +1,160 @@
+{
+    "records_total": 31,
+    "data": [
+        {
+            "id": 1,
+            "code_workunit": "bkpsdmdkc",
+            "name": "Badan Kepegawaian  Pengembangan Sumber Daya Manusia Daerah Civic Administration"
+        },
+        {
+            "id": 2,
+            "code_workunit": "bkbpkc",
+            "name": "Badan Kesatuan Bangsa  Politik Civic Administration"
+        },
+        {
+            "id": 3,
+            "code_workunit": "bpbdkc",
+            "name": "Badan Penanggulangan Bencana Daerah Civic Administration"
+        },
+        {
+            "id": 4,
+            "code_workunit": "bpkadkc",
+            "name": "Badan Pengelola Keuangan  Aset Daerah Civic Administration"
+        },
+        {
+            "id": 5,
+            "code_workunit": "badan_pengelola_pendapatan_daerah_kota_civic_2",
+            "name": "Badan Pengelola Pendapatan Daerah Civic Administration."
+        },
+        {
+            "id": 6,
+            "code_workunit": "bppppdkc",
+            "name": "Badan Perencanaan Pembangunan, Penelitian  Pengembangan Daerah Civic Administration"
+        },
+        {
+            "id": 7,
+            "code_workunit": "badan_pusat_statistik_kota_civic",
+            "name": "Badan Pusat Statistik Civic Administration."
+        },
+        {
+            "id": 8,
+            "code_workunit": "dadkc",
+            "name": "Dinas Arsip Daerah Civic Administration"
+        },
+        {
+            "id": 9,
+            "code_workunit": "dkpkokc",
+            "name": "Dinas Kebudayaan Pariwisata Kepemudaan  Olahraga Civic Administration."
+        },
+        {
+            "id": 10,
+            "code_workunit": "dkpskc",
+            "name": "Dinas Kependudukan  Pencatatan Sipil Civic Administration"
+        },
+        {
+            "id": 11,
+            "code_workunit": "dkkc",
+            "name": "Dinas Kesehatan Civic Administration"
+        },
+        {
+            "id": 12,
+            "code_workunit": "dkdi",
+            "name": "Dinas Komunikasi dan Informatika Civic Administration."
+        },
+        {
+            "id": 13,
+            "code_workunit": "dlhkc",
+            "name": "Dinas Lingkungan Hidup Civic Administration"
+        },
+        {
+            "id": 14,
+            "code_workunit": "dppkc",
+            "name": "Dinas Pangan  Pertanian Civic Administration"
+        },
+        {
+            "id": 15,
+            "code_workunit": "dpuprkc",
+            "name": "Dinas Pekerjaan Umum  Penataan Ruang Civic Administration"
+        },
+        {
+            "id": 16,
+            "code_workunit": "dpppappkbkc",
+            "name": "Dinas Pemberdayaan Perempuan  Perlindungan Anak, Pengendalian Penduduk  Keluarga Berencana Civic Administration."
+        },
+        {
+            "id": 17,
+            "code_workunit": "dpmptspkc",
+            "name": "Dinas Penanaman Modal Pelayanan Terpadu Satu Pintu Civic Administration"
+        },
+        {
+            "id": 18,
+            "code_workunit": "dpkc",
+            "name": "Dinas Pendidikan Civic Administration"
+        },
+        {
+            "id": 19,
+            "code_workunit": "dpkupkc",
+            "name": "Dinas Perdagangan Koperasi UKM Perindustrian Civic Administration"
+        },
+        {
+            "id": 20,
+            "code_workunit": "dinas_perhubungan_kota_civic",
+            "name": "Dinas Perhubungan Civic Administration"
+        },
+        {
+            "id": 21,
+            "code_workunit": "dpkpkc",
+            "name": "Dinas Perumahan Kawasan Permukiman Civic Administration"
+        },
+        {
+            "id": 22,
+            "code_workunit": "dskc",
+            "name": "Dinas Sosial Civic Administration"
+        },
+        {
+            "id": 23,
+            "code_workunit": "dtkkc",
+            "name": "Dinas Tenaga Kerja Civic Administration"
+        },
+        {
+            "id": 24,
+            "code_workunit": "ikc",
+            "name": "Inspektorat Civic Administration"
+        },
+        {
+            "id": 25,
+            "code_workunit": "kcskc",
+            "name": "Kecamatan Civic Selatan Civic Administration"
+        },
+        {
+            "id": 26,
+            "code_workunit": "kctkc",
+            "name": "Kecamatan Civic Tengah Civic Administration"
+        },
+        {
+            "id": 27,
+            "code_workunit": "kcukc",
+            "name": "Kecamatan Civic Utara Civic Administration"
+        },
+        {
+            "id": 28,
+            "code_workunit": "rckc",
+            "name": "RSUD Cibabat Civic Administration"
+        },
+        {
+            "id": 29,
+            "code_workunit": "sppppkkc",
+            "name": "Satuan Polisi Pamong Praja Pemadam Kebakaran Civic Administration"
+        },
+        {
+            "id": 30,
+            "code_workunit": "sdkc",
+            "name": "Sekretariat Daerah Civic Administration"
+        },
+        {
+            "id": 31,
+            "code_workunit": "sdprdkc",
+            "name": "Sekretariat Dewan Perwakilan Rakyat Daerah Civic Administration."
+        }
+    ]
+}

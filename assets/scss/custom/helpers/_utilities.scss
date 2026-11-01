@@ -1,0 +1,55 @@
+// Mixin to generate position utility classes with percentage or pixel units
+@mixin generate-position-utilities($property, $unit, $multiplier) {
+  @for $i from 0 through 20 {
+    .utl-#{$property}-#{$i} {
+      #{$property}: #{$i * $multiplier}#{$unit} !important;
+    }
+    .utl-#{$property}-minus-#{$i} {
+      #{$property}: -#{$i * $multiplier}#{$unit} !important;
+    }
+  }
+}
+
+// Generate top utilities in percentage
+@include generate-position-utilities('top', '%', 20);
+
+// Generate right utilities in percentage
+@include generate-position-utilities('right', '%', 20);
+
+// Generate bottom utilities in percentage
+@include generate-position-utilities('bottom', '%', 20);
+
+// Generate left utilities in percentage
+@include generate-position-utilities('left', '%', 20);
+
+// Generate top utilities in pixels
+@include generate-position-utilities('top', 'px', 1);
+
+// Generate right utilities in pixels
+@include generate-position-utilities('right', 'px', 1);
+
+// Generate bottom utilities in pixels
+@include generate-position-utilities('bottom', 'px', 1);
+
+// Generate left utilities in pixels
+@include generate-position-utilities('left', 'px', 1);
+
+// Mixin to generate gap utilities
+@mixin generate-gap-utilities($spacers) {
+  @each $name, $size in $spacers {
+    .gap-#{$name} {
+      gap: $size !important;
+    }
+    
+    .gap-x-#{$name} {
+      column-gap: $size !important;
+    }
+    
+    .gap-y-#{$name} {
+      row-gap: $size !important;
+    }
+  }
+}
+
+// Include the mixin
+@include generate-gap-utilities($gap-spacers);
